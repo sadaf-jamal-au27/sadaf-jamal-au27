@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sadaf-jamal-au27
+- 👋 Hi, I’m Sadaf
 - 👀 I’m interested in developement,testing and deployment
 - 🌱 I’m currently learning devops deployment and automation
 - 💞️ I’m looking to collaborate on google summer code
